@@ -1,0 +1,7002 @@
+[
+  {
+    "algorithm": "A*",
+    "target": "FRASS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.9367971420288086
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOLIX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "REATA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNLID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010063648223876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "SIDHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002001523971557617
+  },
+  {
+    "algorithm": "A*",
+    "target": "PERAI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.000997304916381836
+  },
+  {
+    "algorithm": "A*",
+    "target": "PANTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "ABACA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017921924591064453
+  },
+  {
+    "algorithm": "A*",
+    "target": "CANNA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "CARBS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019996166229248047
+  },
+  {
+    "algorithm": "A*",
+    "target": "DHOLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010268688201904297
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUXES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0043146610260009766
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAUSS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004167079925537109
+  },
+  {
+    "algorithm": "A*",
+    "target": "JUICY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019140243530273438
+  },
+  {
+    "algorithm": "A*",
+    "target": "TZARS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZAIDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003997087478637695
+  },
+  {
+    "algorithm": "A*",
+    "target": "GLOVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "NICHT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010056495666503906
+  },
+  {
+    "algorithm": "A*",
+    "target": "OORIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIMAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "DITAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TEARS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "PITTA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017507076263427734
+  },
+  {
+    "algorithm": "A*",
+    "target": "HEFTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002000570297241211
+  },
+  {
+    "algorithm": "A*",
+    "target": "LECCY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009980201721191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCROG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002347707748413086
+  },
+  {
+    "algorithm": "A*",
+    "target": "TAMIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VIVDA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPLAY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010073184967041016
+  },
+  {
+    "algorithm": "A*",
+    "target": "REGET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "PULAO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012469291687011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOBAK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002000093460083008
+  },
+  {
+    "algorithm": "A*",
+    "target": "RISKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002521991729736328
+  },
+  {
+    "algorithm": "A*",
+    "target": "RORID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NENES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.008675575256347656
+  },
+  {
+    "algorithm": "A*",
+    "target": "MERCS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015201568603515625
+  },
+  {
+    "algorithm": "A*",
+    "target": "PASTA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRATT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001926422119140625
+  },
+  {
+    "algorithm": "A*",
+    "target": "EMMYS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010542869567871094
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOBBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005019187927246094
+  },
+  {
+    "algorithm": "A*",
+    "target": "WINDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0037424564361572266
+  },
+  {
+    "algorithm": "A*",
+    "target": "YORKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003108978271484375
+  },
+  {
+    "algorithm": "A*",
+    "target": "DAILY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017502307891845703
+  },
+  {
+    "algorithm": "A*",
+    "target": "LUXED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013155937194824219
+  },
+  {
+    "algorithm": "A*",
+    "target": "EQUAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009961128234863281
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAITS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004619121551513672
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLUNG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016241073608398438
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOLID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "YLIDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015239715576171875
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOPER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019085407257080078
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAVED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00454401969909668
+  },
+  {
+    "algorithm": "A*",
+    "target": "GOBBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0032122135162353516
+  },
+  {
+    "algorithm": "A*",
+    "target": "PROOT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TAUTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001119375228881836
+  },
+  {
+    "algorithm": "A*",
+    "target": "BAYOU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004114627838134766
+  },
+  {
+    "algorithm": "A*",
+    "target": "AIYOO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016129016876220703
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOOSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "EXECS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GOWFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0034885406494140625
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHACE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002009868621826172
+  },
+  {
+    "algorithm": "A*",
+    "target": "PENKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002008676528930664
+  },
+  {
+    "algorithm": "A*",
+    "target": "VERBA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005758523941040039
+  },
+  {
+    "algorithm": "A*",
+    "target": "STACK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0066454410552978516
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHADY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002309083938598633
+  },
+  {
+    "algorithm": "A*",
+    "target": "PERMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00321197509765625
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEKKO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004633903503417969
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEFER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011107921600341797
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRUNO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006823539733886719
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOGIC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005288124084472656
+  },
+  {
+    "algorithm": "A*",
+    "target": "JOTUN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0038976669311523438
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROBER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016791820526123047
+  },
+  {
+    "algorithm": "A*",
+    "target": "JINNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002521038055419922
+  },
+  {
+    "algorithm": "A*",
+    "target": "DELLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010161399841308594
+  },
+  {
+    "algorithm": "A*",
+    "target": "HARDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0024595260620117188
+  },
+  {
+    "algorithm": "A*",
+    "target": "WRYLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DIOTA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004420280456542969
+  },
+  {
+    "algorithm": "A*",
+    "target": "GUYOT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FUNTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012199878692626953
+  },
+  {
+    "algorithm": "A*",
+    "target": "OMERS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TIBIA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEMUR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RAFEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011866092681884766
+  },
+  {
+    "algorithm": "A*",
+    "target": "CRISS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001051187515258789
+  },
+  {
+    "algorithm": "A*",
+    "target": "PYGAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "PASSU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002506732940673828
+  },
+  {
+    "algorithm": "A*",
+    "target": "REIGN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUTTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016040802001953125
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGUES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003996133804321289
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUAZE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017614364624023438
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOXTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003991365432739258
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOVEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARTER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SITCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014643669128417969
+  },
+  {
+    "algorithm": "A*",
+    "target": "CALMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015053749084472656
+  },
+  {
+    "algorithm": "A*",
+    "target": "ANTAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CORKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019996166229248047
+  },
+  {
+    "algorithm": "A*",
+    "target": "SNIPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHETH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008068084716796875
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAMAZ",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RANIS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012965202331542969
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOSHI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013995170593261719
+  },
+  {
+    "algorithm": "A*",
+    "target": "MATTE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VATHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NUFFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.007548332214355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "ATOKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007910728454589844
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUMPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004511833190917969
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOMOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0072269439697265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "CEROC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020062923431396484
+  },
+  {
+    "algorithm": "A*",
+    "target": "NYING",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002797365188598633
+  },
+  {
+    "algorithm": "A*",
+    "target": "FORES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016455650329589844
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEEMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002004861831665039
+  },
+  {
+    "algorithm": "A*",
+    "target": "TATAR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHAME",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002445220947265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "PAPAD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021042823791503906
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRASS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FALSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUMPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002585887908935547
+  },
+  {
+    "algorithm": "A*",
+    "target": "HEBES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.007285118103027344
+  },
+  {
+    "algorithm": "A*",
+    "target": "ALONG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LYASE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010068416595458984
+  },
+  {
+    "algorithm": "A*",
+    "target": "TABID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019257068634033203
+  },
+  {
+    "algorithm": "A*",
+    "target": "BARED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "POMMY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003118753433227539
+  },
+  {
+    "algorithm": "A*",
+    "target": "OSMOL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COHAB",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGLOO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOBLA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOUSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AYAHS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUSTA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "OXERS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001734018325805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "TIGES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00413966178894043
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOWLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001233816146850586
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGENT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AWDLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012509822845458984
+  },
+  {
+    "algorithm": "A*",
+    "target": "GUGGL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008842945098876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "INROS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012068748474121094
+  },
+  {
+    "algorithm": "A*",
+    "target": "SIENS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00037479400634765625
+  },
+  {
+    "algorithm": "A*",
+    "target": "TAPEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOCKO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005948543548583984
+  },
+  {
+    "algorithm": "A*",
+    "target": "CULTI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LUNES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUSHY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016682147979736328
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKULK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "REPAY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013649463653564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEMOT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEASE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEMAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "COOED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021076202392578125
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRIKE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012230873107910156
+  },
+  {
+    "algorithm": "A*",
+    "target": "SINKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAMPI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOBAR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RETRO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001008749008178711
+  },
+  {
+    "algorithm": "A*",
+    "target": "INCUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018742084503173828
+  },
+  {
+    "algorithm": "A*",
+    "target": "SORBS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKOOL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009353160858154297
+  },
+  {
+    "algorithm": "A*",
+    "target": "TEMSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014789104461669922
+  },
+  {
+    "algorithm": "A*",
+    "target": "ENFIX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMEBA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010113716125488281
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAIST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SICES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021467208862304688
+  },
+  {
+    "algorithm": "A*",
+    "target": "ACONE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001544952392578125
+  },
+  {
+    "algorithm": "A*",
+    "target": "TOPAZ",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNTIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010786056518554688
+  },
+  {
+    "algorithm": "A*",
+    "target": "TASSA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUNES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010976791381835938
+  },
+  {
+    "algorithm": "A*",
+    "target": "APTED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RAFTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AIDOI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PROOT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "KBARS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "CIVIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "TWEER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012347698211669922
+  },
+  {
+    "algorithm": "A*",
+    "target": "SNEAD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TERNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUNAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEIZA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005943775177001953
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOWTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010025501251220703
+  },
+  {
+    "algorithm": "A*",
+    "target": "KRAYS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004662513732910156
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZOEAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007829666137695312
+  },
+  {
+    "algorithm": "A*",
+    "target": "PROWL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010080337524414062
+  },
+  {
+    "algorithm": "A*",
+    "target": "DACHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0033609867095947266
+  },
+  {
+    "algorithm": "A*",
+    "target": "STOTT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010607242584228516
+  },
+  {
+    "algorithm": "A*",
+    "target": "VILDE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RELLO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001020669937133789
+  },
+  {
+    "algorithm": "A*",
+    "target": "VASAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010018348693847656
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCAMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012087821960449219
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMIGA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012173652648925781
+  },
+  {
+    "algorithm": "A*",
+    "target": "VAUTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019965171813964844
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRAIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "REIKI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008814334869384766
+  },
+  {
+    "algorithm": "A*",
+    "target": "SIGHS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015234947204589844
+  },
+  {
+    "algorithm": "A*",
+    "target": "DICKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0035195350646972656
+  },
+  {
+    "algorithm": "A*",
+    "target": "TENNE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002167940139770508
+  },
+  {
+    "algorithm": "A*",
+    "target": "LURCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "NYALA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001577138900756836
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRANE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00055694580078125
+  },
+  {
+    "algorithm": "A*",
+    "target": "VIEWS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018057823181152344
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUNAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0027031898498535156
+  },
+  {
+    "algorithm": "A*",
+    "target": "LURCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAMES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012240409851074219
+  },
+  {
+    "algorithm": "A*",
+    "target": "PIPUL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011544227600097656
+  },
+  {
+    "algorithm": "A*",
+    "target": "ASKEW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRILL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARPAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004726886749267578
+  },
+  {
+    "algorithm": "A*",
+    "target": "EMONG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LAYUP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COZEY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019986629486083984
+  },
+  {
+    "algorithm": "A*",
+    "target": "STARE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PHASM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHICA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ENSEW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.007121562957763672
+  },
+  {
+    "algorithm": "A*",
+    "target": "KOELS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZAMBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011210441589355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "MIGOD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016405582427978516
+  },
+  {
+    "algorithm": "A*",
+    "target": "GLUEY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "VOEMA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0022401809692382812
+  },
+  {
+    "algorithm": "A*",
+    "target": "MEFFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020036697387695312
+  },
+  {
+    "algorithm": "A*",
+    "target": "WISED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CROME",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015864372253417969
+  },
+  {
+    "algorithm": "A*",
+    "target": "BROCK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011487007141113281
+  },
+  {
+    "algorithm": "A*",
+    "target": "BONNE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010654926300048828
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOORN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010023117065429688
+  },
+  {
+    "algorithm": "A*",
+    "target": "SELKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CIVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028111934661865234
+  },
+  {
+    "algorithm": "A*",
+    "target": "ATOLL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0045316219329833984
+  },
+  {
+    "algorithm": "A*",
+    "target": "KLANG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CUIFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019731521606445312
+  },
+  {
+    "algorithm": "A*",
+    "target": "SABRE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010008811950683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "REBUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010066032409667969
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAPED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MEAKE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PETTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010008811950683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOWTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001003265380859375
+  },
+  {
+    "algorithm": "A*",
+    "target": "WIDES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016922950744628906
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAMPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003031492233276367
+  },
+  {
+    "algorithm": "A*",
+    "target": "COUDE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010523796081542969
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOGIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002577543258666992
+  },
+  {
+    "algorithm": "A*",
+    "target": "GROUT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DENET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009968280792236328
+  },
+  {
+    "algorithm": "A*",
+    "target": "PECKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012352466583251953
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNIFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011305809020996094
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPRED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019271373748779297
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLINT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010530948638916016
+  },
+  {
+    "algorithm": "A*",
+    "target": "ALONG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010037422180175781
+  },
+  {
+    "algorithm": "A*",
+    "target": "THECA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011222362518310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "MILCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAIKU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COLES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015115737915039062
+  },
+  {
+    "algorithm": "A*",
+    "target": "BURST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.000766754150390625
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZEBRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HOYLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00066375732421875
+  },
+  {
+    "algorithm": "A*",
+    "target": "MERKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NEMPT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "POTCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006263256072998047
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOREK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008609294891357422
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZINGY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001581430435180664
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAYAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004732370376586914
+  },
+  {
+    "algorithm": "A*",
+    "target": "LARES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "OLDLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOCKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004285573959350586
+  },
+  {
+    "algorithm": "A*",
+    "target": "KUYAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0029685497283935547
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRILD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TITHI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUINO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HARAM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00030684471130371094
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIPES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015571117401123047
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAGUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0030050277709960938
+  },
+  {
+    "algorithm": "A*",
+    "target": "DWAUM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021085739135742188
+  },
+  {
+    "algorithm": "A*",
+    "target": "LINED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SALUE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00040602684020996094
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNSUB",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAOLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010035037994384766
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEALT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RESAY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TWILT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GYPPO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "SICKO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIRSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013053417205810547
+  },
+  {
+    "algorithm": "A*",
+    "target": "HURRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "OWLED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009524822235107422
+  },
+  {
+    "algorithm": "A*",
+    "target": "JATHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "ESKER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001867532730102539
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLURR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "FOLIC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOLAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOPED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009207725524902344
+  },
+  {
+    "algorithm": "A*",
+    "target": "INCOG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "LILLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ATOKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BARNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00040984153747558594
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOOLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010018348693847656
+  },
+  {
+    "algorithm": "A*",
+    "target": "LYING",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009617805480957031
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZABRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LYRIC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006127357482910156
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIFID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001999378204345703
+  },
+  {
+    "algorithm": "A*",
+    "target": "SITED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "OSHAC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUREX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011031627655029297
+  },
+  {
+    "algorithm": "A*",
+    "target": "KRAYS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0029997825622558594
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUSER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUSKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007574558258056641
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEMIT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "BANJO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001535177230834961
+  },
+  {
+    "algorithm": "A*",
+    "target": "BODOH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028564929962158203
+  },
+  {
+    "algorithm": "A*",
+    "target": "SNOOK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "MIROS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008635520935058594
+  },
+  {
+    "algorithm": "A*",
+    "target": "ORNEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GURKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028128623962402344
+  },
+  {
+    "algorithm": "A*",
+    "target": "KINDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "FAMES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001893758773803711
+  },
+  {
+    "algorithm": "A*",
+    "target": "NATES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001003265380859375
+  },
+  {
+    "algorithm": "A*",
+    "target": "YAKOW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002999544143676758
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHEKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007007122039794922
+  },
+  {
+    "algorithm": "A*",
+    "target": "CATTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019989013671875
+  },
+  {
+    "algorithm": "A*",
+    "target": "YIRRS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017879009246826172
+  },
+  {
+    "algorithm": "A*",
+    "target": "SUONA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MANIA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUSKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011479854583740234
+  },
+  {
+    "algorithm": "A*",
+    "target": "ALFAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HIZEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "STILT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AFION",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "ICTAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011839866638183594
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROLLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GORAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "EMOVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "OKIES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006923675537109375
+  },
+  {
+    "algorithm": "A*",
+    "target": "BENIS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "APHIS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ICHES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0032269954681396484
+  },
+  {
+    "algorithm": "A*",
+    "target": "KOORI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0029189586639404297
+  },
+  {
+    "algorithm": "A*",
+    "target": "TWILL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOFFO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005333662033081055
+  },
+  {
+    "algorithm": "A*",
+    "target": "RUSMA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008857250213623047
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOBOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015285015106201172
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEVEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009591579437255859
+  },
+  {
+    "algorithm": "A*",
+    "target": "ABACK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002007007598876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "FOXIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015606880187988281
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOBBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLAST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GRADE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COTES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004725456237792969
+  },
+  {
+    "algorithm": "A*",
+    "target": "ABBAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003922462463378906
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOWED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ULEMA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "KETES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.000591278076171875
+  },
+  {
+    "algorithm": "A*",
+    "target": "FUMER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005751609802246094
+  },
+  {
+    "algorithm": "A*",
+    "target": "RYIJY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GISMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00339508056640625
+  },
+  {
+    "algorithm": "A*",
+    "target": "TIFTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRICE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009965896606445312
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOGEY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "CADEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002148151397705078
+  },
+  {
+    "algorithm": "A*",
+    "target": "NEBEK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009970664978027344
+  },
+  {
+    "algorithm": "A*",
+    "target": "RENAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DERPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013501644134521484
+  },
+  {
+    "algorithm": "A*",
+    "target": "FILMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "PORUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BODOH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0038383007049560547
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZIPPO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003593921661376953
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHEEP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VOLED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRANC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010755062103271484
+  },
+  {
+    "algorithm": "A*",
+    "target": "TIDDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010535717010498047
+  },
+  {
+    "algorithm": "A*",
+    "target": "COTTA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010983943939208984
+  },
+  {
+    "algorithm": "A*",
+    "target": "GHYLL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SULKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AJWAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016322135925292969
+  },
+  {
+    "algorithm": "A*",
+    "target": "IDYLL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAAFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004421710968017578
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLOCK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0023241043090820312
+  },
+  {
+    "algorithm": "A*",
+    "target": "MICHI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BINES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00504302978515625
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHEWS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SMORE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00075531005859375
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLINT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010035037994384766
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAHAM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010995864868164062
+  },
+  {
+    "algorithm": "A*",
+    "target": "WANTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0022988319396972656
+  },
+  {
+    "algorithm": "A*",
+    "target": "SENES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "REGLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010645389556884766
+  },
+  {
+    "algorithm": "A*",
+    "target": "BURFI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "SYRUP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011234283447265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "KILOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WISHT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011265277862548828
+  },
+  {
+    "algorithm": "A*",
+    "target": "KOGAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014507770538330078
+  },
+  {
+    "algorithm": "A*",
+    "target": "PEINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUAIL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOWDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018839836120605469
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROTOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGAMY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013396739959716797
+  },
+  {
+    "algorithm": "A*",
+    "target": "PEPON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "SNABS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAWKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0023641586303710938
+  },
+  {
+    "algorithm": "A*",
+    "target": "TANGA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAFTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016279220581054688
+  },
+  {
+    "algorithm": "A*",
+    "target": "PSHUT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BAONS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014009475708007812
+  },
+  {
+    "algorithm": "A*",
+    "target": "ZAMBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "PUMPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROPES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002002239227294922
+  },
+  {
+    "algorithm": "A*",
+    "target": "MANAT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010578632354736328
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOWED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002004861831665039
+  },
+  {
+    "algorithm": "A*",
+    "target": "TOWZY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CONCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00039458274841308594
+  },
+  {
+    "algorithm": "A*",
+    "target": "KAIDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009076595306396484
+  },
+  {
+    "algorithm": "A*",
+    "target": "GREWS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021653175354003906
+  },
+  {
+    "algorithm": "A*",
+    "target": "PODIA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015916824340820312
+  },
+  {
+    "algorithm": "A*",
+    "target": "GLORY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010514259338378906
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHORD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "KNOUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GOODO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002376556396484375
+  },
+  {
+    "algorithm": "A*",
+    "target": "KARRI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014116764068603516
+  },
+  {
+    "algorithm": "A*",
+    "target": "IRONS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001756906509399414
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAHEY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020020008087158203
+  },
+  {
+    "algorithm": "A*",
+    "target": "GONKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005311727523803711
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOOKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007500648498535156
+  },
+  {
+    "algorithm": "A*",
+    "target": "ADRAW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009562969207763672
+  },
+  {
+    "algorithm": "A*",
+    "target": "HINAU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001325368881225586
+  },
+  {
+    "algorithm": "A*",
+    "target": "AFLAJ",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009481906890869141
+  },
+  {
+    "algorithm": "A*",
+    "target": "BURET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ADEEM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010051727294921875
+  },
+  {
+    "algorithm": "A*",
+    "target": "OSMOL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004277229309082031
+  },
+  {
+    "algorithm": "A*",
+    "target": "HALID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001005411148071289
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUNKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028607845306396484
+  },
+  {
+    "algorithm": "A*",
+    "target": "BURRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010650157928466797
+  },
+  {
+    "algorithm": "A*",
+    "target": "ODOOM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002801179885864258
+  },
+  {
+    "algorithm": "A*",
+    "target": "ERICK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "KIVAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "GOLPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018184185028076172
+  },
+  {
+    "algorithm": "A*",
+    "target": "RESAW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRAKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012598037719726562
+  },
+  {
+    "algorithm": "A*",
+    "target": "RUFFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GILPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010056495666503906
+  },
+  {
+    "algorithm": "A*",
+    "target": "NITRO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIBEL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017993450164794922
+  },
+  {
+    "algorithm": "A*",
+    "target": "DAWEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DZHOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016870498657226562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SIRIH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001512289047241211
+  },
+  {
+    "algorithm": "A*",
+    "target": "ONERY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUITS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010082721710205078
+  },
+  {
+    "algorithm": "A*",
+    "target": "HUDUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004202365875244141
+  },
+  {
+    "algorithm": "A*",
+    "target": "PUNCE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010640621185302734
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOOFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004340410232543945
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAUVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007333755493164062
+  },
+  {
+    "algorithm": "A*",
+    "target": "WRUNG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "KIEFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014429092407226562
+  },
+  {
+    "algorithm": "A*",
+    "target": "ANCHO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001129150390625
+  },
+  {
+    "algorithm": "A*",
+    "target": "BELCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00045371055603027344
+  },
+  {
+    "algorithm": "A*",
+    "target": "OVOID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001007080078125
+  },
+  {
+    "algorithm": "A*",
+    "target": "FANES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0026750564575195312
+  },
+  {
+    "algorithm": "A*",
+    "target": "FELTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008478164672851562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SWITS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DIDDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003941059112548828
+  },
+  {
+    "algorithm": "A*",
+    "target": "GIMPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010714530944824219
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUCRO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAYON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010666847229003906
+  },
+  {
+    "algorithm": "A*",
+    "target": "KANGA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004582405090332031
+  },
+  {
+    "algorithm": "A*",
+    "target": "SUNTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COSEC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010051727294921875
+  },
+  {
+    "algorithm": "A*",
+    "target": "PURPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011649131774902344
+  },
+  {
+    "algorithm": "A*",
+    "target": "PACER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "ACYLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010619163513183594
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHOKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010008811950683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAGES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002058744430541992
+  },
+  {
+    "algorithm": "A*",
+    "target": "FURAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016331672668457031
+  },
+  {
+    "algorithm": "A*",
+    "target": "MECHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEVEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BROSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "PARKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008022785186767578
+  },
+  {
+    "algorithm": "A*",
+    "target": "CUNNY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BADLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012857913970947266
+  },
+  {
+    "algorithm": "A*",
+    "target": "GULFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARAKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "MISTO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARMER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008730888366699219
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPEWY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "SORRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001974821090698242
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRAUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020012855529785156
+  },
+  {
+    "algorithm": "A*",
+    "target": "COPRA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010008811950683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "COCOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016384124755859375
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOBAR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WHELM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAULK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LANTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "PILUM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008177757263183594
+  },
+  {
+    "algorithm": "A*",
+    "target": "IMPRO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "GOUCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016374588012695312
+  },
+  {
+    "algorithm": "A*",
+    "target": "URARE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PEWIT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009756088256835938
+  },
+  {
+    "algorithm": "A*",
+    "target": "YEAHS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009980201721191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "PANTO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012052059173583984
+  },
+  {
+    "algorithm": "A*",
+    "target": "CIVET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "EXIES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0033118724822998047
+  },
+  {
+    "algorithm": "A*",
+    "target": "SALSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008244514465332031
+  },
+  {
+    "algorithm": "A*",
+    "target": "SIXTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MULLA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TOUZY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEITY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010023117065429688
+  },
+  {
+    "algorithm": "A*",
+    "target": "WHICH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AREPA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "PUKAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "AZONS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014905929565429688
+  },
+  {
+    "algorithm": "A*",
+    "target": "ELPEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "WHICH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015327930450439453
+  },
+  {
+    "algorithm": "A*",
+    "target": "JOURS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAWER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "JASPE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "QANAT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009388923645019531
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOTIF",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAPER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016131401062011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "YAKKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "UMMED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002417325973510742
+  },
+  {
+    "algorithm": "A*",
+    "target": "FERMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002300262451171875
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLIPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUTUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016417503356933594
+  },
+  {
+    "algorithm": "A*",
+    "target": "OLLIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CLACK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00042939186096191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0045604705810546875
+  },
+  {
+    "algorithm": "A*",
+    "target": "PERMY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "STALK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROKOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAKED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028297901153564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "MANEH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002045869827270508
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUEAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "JUMAR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017092227935791016
+  },
+  {
+    "algorithm": "A*",
+    "target": "WIRER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002141237258911133
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAYST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TANGA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NINTH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLEXI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MIRAH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004515647888183594
+  },
+  {
+    "algorithm": "A*",
+    "target": "NGONI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "YUCKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0022690296173095703
+  },
+  {
+    "algorithm": "A*",
+    "target": "BILBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MATER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019221305847167969
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRATS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "BROOL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002500772476196289
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKEGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "BWAZI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAGUM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00167083740234375
+  },
+  {
+    "algorithm": "A*",
+    "target": "POCHO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MIFTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008685588836669922
+  },
+  {
+    "algorithm": "A*",
+    "target": "BILGE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BEGAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012264251708984375
+  },
+  {
+    "algorithm": "A*",
+    "target": "GLOPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010039806365966797
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUSIT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BANDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0053424835205078125
+  },
+  {
+    "algorithm": "A*",
+    "target": "PHANG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "LITER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WOOFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.006021022796630859
+  },
+  {
+    "algorithm": "A*",
+    "target": "GHAZI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "OFTER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "THONG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROUGY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GROSS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "KITAB",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010058879852294922
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNMIX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "WITHY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COOMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004983663558959961
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHORD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAUGH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0030007362365722656
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOWLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010535717010498047
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRAXY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015592575073242188
+  },
+  {
+    "algorithm": "A*",
+    "target": "FAUNA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUMSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010607242584228516
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROTON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "TATER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010058879852294922
+  },
+  {
+    "algorithm": "A*",
+    "target": "SLOWS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "SLAKE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DAWED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016138553619384766
+  },
+  {
+    "algorithm": "A*",
+    "target": "GROAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "CLUED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010864734649658203
+  },
+  {
+    "algorithm": "A*",
+    "target": "COUPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010020732879638672
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRESH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKEIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROOFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "VOLVA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018382072448730469
+  },
+  {
+    "algorithm": "A*",
+    "target": "DIOLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "TANGO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009403228759765625
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOXIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020012855529785156
+  },
+  {
+    "algorithm": "A*",
+    "target": "PROMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WILED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "MYSIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCATS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005087852478027344
+  },
+  {
+    "algorithm": "A*",
+    "target": "HYDEL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOWIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011839866638183594
+  },
+  {
+    "algorithm": "A*",
+    "target": "JUMPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0032987594604492188
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAPER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "RECCE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "COYAU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004380464553833008
+  },
+  {
+    "algorithm": "A*",
+    "target": "PETTI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "USQUE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "RIGID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004014253616333008
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOSHA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BETTY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00040459632873535156
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAUNT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "INDOW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009980201721191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUMPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001462697982788086
+  },
+  {
+    "algorithm": "A*",
+    "target": "UPTER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VERRE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ONTIC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TATER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "HOTEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010030269622802734
+  },
+  {
+    "algorithm": "A*",
+    "target": "TURMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0033698081970214844
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEALS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "YAWNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002007007598876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARRAY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0003859996795654297
+  },
+  {
+    "algorithm": "A*",
+    "target": "MERKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "SALON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014452934265136719
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEASH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "AULOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ODDLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOPAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00203704833984375
+  },
+  {
+    "algorithm": "A*",
+    "target": "POKIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002006053924560547
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOBED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002005338668823242
+  },
+  {
+    "algorithm": "A*",
+    "target": "DULES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SADDO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019311904907226562
+  },
+  {
+    "algorithm": "A*",
+    "target": "CRIER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BLEES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUERY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009980201721191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "PURLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008027553558349609
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOXED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019488334655761719
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLOAT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "REFRY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPAWL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAHOE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0003075599670410156
+  },
+  {
+    "algorithm": "A*",
+    "target": "ATUAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016460418701171875
+  },
+  {
+    "algorithm": "A*",
+    "target": "TURRS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012009143829345703
+  },
+  {
+    "algorithm": "A*",
+    "target": "REDUX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009706020355224609
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHIRT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010423660278320312
+  },
+  {
+    "algorithm": "A*",
+    "target": "PILOT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CRUDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GONGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0037114620208740234
+  },
+  {
+    "algorithm": "A*",
+    "target": "NUDGE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009613037109375
+  },
+  {
+    "algorithm": "A*",
+    "target": "HOUFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGRUM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001316070556640625
+  },
+  {
+    "algorithm": "A*",
+    "target": "LUNKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009963512420654297
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOGMA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014998912811279297
+  },
+  {
+    "algorithm": "A*",
+    "target": "RUNDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009911060333251953
+  },
+  {
+    "algorithm": "A*",
+    "target": "WASTE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005238056182861328
+  },
+  {
+    "algorithm": "A*",
+    "target": "GINNY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAFFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017197132110595703
+  },
+  {
+    "algorithm": "A*",
+    "target": "JUPON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HILSA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRAUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "HALER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SORRY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "EHING",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TREWS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUCKO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AYINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004665851593017578
+  },
+  {
+    "algorithm": "A*",
+    "target": "CREEP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013113021850585938
+  },
+  {
+    "algorithm": "A*",
+    "target": "ELVAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRIGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001276254653930664
+  },
+  {
+    "algorithm": "A*",
+    "target": "IZARD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016810894012451172
+  },
+  {
+    "algorithm": "A*",
+    "target": "YELMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011687278747558594
+  },
+  {
+    "algorithm": "A*",
+    "target": "INCUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007388591766357422
+  },
+  {
+    "algorithm": "A*",
+    "target": "WASES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012869834899902344
+  },
+  {
+    "algorithm": "A*",
+    "target": "SMOGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011396408081054688
+  },
+  {
+    "algorithm": "A*",
+    "target": "VOCAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002193450927734375
+  },
+  {
+    "algorithm": "A*",
+    "target": "STRAP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0022144317626953125
+  },
+  {
+    "algorithm": "A*",
+    "target": "CUTIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUOTE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOCKO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001161813735961914
+  },
+  {
+    "algorithm": "A*",
+    "target": "HOWDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003366708755493164
+  },
+  {
+    "algorithm": "A*",
+    "target": "AINEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CRYNE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ALONE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LAMBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010416507720947266
+  },
+  {
+    "algorithm": "A*",
+    "target": "DORKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009522438049316406
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEALS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006952285766601562
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAIDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004423618316650391
+  },
+  {
+    "algorithm": "A*",
+    "target": "CANDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018017292022705078
+  },
+  {
+    "algorithm": "A*",
+    "target": "NUDER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005197525024414062
+  },
+  {
+    "algorithm": "A*",
+    "target": "TALER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005476474761962891
+  },
+  {
+    "algorithm": "A*",
+    "target": "CYANS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001837015151977539
+  },
+  {
+    "algorithm": "A*",
+    "target": "PALPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005233287811279297
+  },
+  {
+    "algorithm": "A*",
+    "target": "OUNDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020248889923095703
+  },
+  {
+    "algorithm": "A*",
+    "target": "JIAOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011341571807861328
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHOUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VAULT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAREX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEESE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010919570922851562
+  },
+  {
+    "algorithm": "A*",
+    "target": "GALIS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011608600616455078
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIERS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "KRAUT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011463165283203125
+  },
+  {
+    "algorithm": "A*",
+    "target": "RONUK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0003094673156738281
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOUMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOAMY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012123584747314453
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROOPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015921592712402344
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUOMO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006549358367919922
+  },
+  {
+    "algorithm": "A*",
+    "target": "MYSID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001565694808959961
+  },
+  {
+    "algorithm": "A*",
+    "target": "LAXLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021126270294189453
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUSSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018777847290039062
+  },
+  {
+    "algorithm": "A*",
+    "target": "RUBES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018291473388671875
+  },
+  {
+    "algorithm": "A*",
+    "target": "TEMPI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MONAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018241405487060547
+  },
+  {
+    "algorithm": "A*",
+    "target": "TALEA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LEVEE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "QUERN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ENTIA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GRUFF",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011677742004394531
+  },
+  {
+    "algorithm": "A*",
+    "target": "GRUNT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005218982696533203
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006709098815917969
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMPED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "KAPPA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOLOG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "ABJAD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001138448715209961
+  },
+  {
+    "algorithm": "A*",
+    "target": "BELTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00031638145446777344
+  },
+  {
+    "algorithm": "A*",
+    "target": "MUCKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0027103424072265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "REDDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PIPET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012516975402832031
+  },
+  {
+    "algorithm": "A*",
+    "target": "SLEEP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MIRLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001308441162109375
+  },
+  {
+    "algorithm": "A*",
+    "target": "DRAPE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007157325744628906
+  },
+  {
+    "algorithm": "A*",
+    "target": "WHINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002454996109008789
+  },
+  {
+    "algorithm": "A*",
+    "target": "MEITH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ENTRE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOLAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009050369262695312
+  },
+  {
+    "algorithm": "A*",
+    "target": "DAURS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGING",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016024112701416016
+  },
+  {
+    "algorithm": "A*",
+    "target": "PSEUD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010328292846679688
+  },
+  {
+    "algorithm": "A*",
+    "target": "APTED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHAMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012607574462890625
+  },
+  {
+    "algorithm": "A*",
+    "target": "FURCA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018270015716552734
+  },
+  {
+    "algorithm": "A*",
+    "target": "TENGE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIRSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004291534423828125
+  },
+  {
+    "algorithm": "A*",
+    "target": "RAWER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001991748809814453
+  },
+  {
+    "algorithm": "A*",
+    "target": "RUMBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001239776611328125
+  },
+  {
+    "algorithm": "A*",
+    "target": "WYTHE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007419586181640625
+  },
+  {
+    "algorithm": "A*",
+    "target": "BEETS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005033016204833984
+  },
+  {
+    "algorithm": "A*",
+    "target": "FLUOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014405250549316406
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAPOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0024263858795166016
+  },
+  {
+    "algorithm": "A*",
+    "target": "DAWEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAUVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRITZ",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014390945434570312
+  },
+  {
+    "algorithm": "A*",
+    "target": "KHANS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNDID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015401840209960938
+  },
+  {
+    "algorithm": "A*",
+    "target": "FAXES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020008087158203125
+  },
+  {
+    "algorithm": "A*",
+    "target": "POPSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "APPLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007584095001220703
+  },
+  {
+    "algorithm": "A*",
+    "target": "SUNNY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009984970092773438
+  },
+  {
+    "algorithm": "A*",
+    "target": "STEDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "AGGIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015037059783935547
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUTEO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "OLLAV",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009975433349609375
+  },
+  {
+    "algorithm": "A*",
+    "target": "HILCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOUIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010063648223876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROARS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "BALAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019931793212890625
+  },
+  {
+    "algorithm": "A*",
+    "target": "OCTYL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RAFIQ",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00168609619140625
+  },
+  {
+    "algorithm": "A*",
+    "target": "KOHEN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010006427764892578
+  },
+  {
+    "algorithm": "A*",
+    "target": "PERTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FREON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SMUGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GORSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010044574737548828
+  },
+  {
+    "algorithm": "A*",
+    "target": "SLUBB",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002439737319946289
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOUPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRESA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NERVY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLUMY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001352548599243164
+  },
+  {
+    "algorithm": "A*",
+    "target": "GUSLA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "THELF",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001003265380859375
+  },
+  {
+    "algorithm": "A*",
+    "target": "DIMBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "SLYLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004527568817138672
+  },
+  {
+    "algorithm": "A*",
+    "target": "PAOLO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLISH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNCOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009982585906982422
+  },
+  {
+    "algorithm": "A*",
+    "target": "FORAM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00036525726318359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKEES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPURT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "EAVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019981861114501953
+  },
+  {
+    "algorithm": "A*",
+    "target": "YADDA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.000997304916381836
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHETH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010035037994384766
+  },
+  {
+    "algorithm": "A*",
+    "target": "KLUGE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "WORST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SORTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKEIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PACER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIRTH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001596450805664
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAFFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.006138801574707031
+  },
+  {
+    "algorithm": "A*",
+    "target": "PIKUL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010030269622802734
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCARP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TRITE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ORTHO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOREX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013813972473144531
+  },
+  {
+    "algorithm": "A*",
+    "target": "CACAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0048215389251708984
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHYME",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028574466705322266
+  },
+  {
+    "algorithm": "A*",
+    "target": "WOJUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013120174407958984
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHULE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00035309791564941406
+  },
+  {
+    "algorithm": "A*",
+    "target": "FEROX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003968477249145508
+  },
+  {
+    "algorithm": "A*",
+    "target": "CARDI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010104179382324219
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOGGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003908634185791016
+  },
+  {
+    "algorithm": "A*",
+    "target": "JOWED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016145706176757812
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUATS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012805461883544922
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIMBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001237630844116211
+  },
+  {
+    "algorithm": "A*",
+    "target": "GARRE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PAILS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "DIOLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009989738464355469
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARAKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00033736228942871094
+  },
+  {
+    "algorithm": "A*",
+    "target": "WOOER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019991397857666016
+  },
+  {
+    "algorithm": "A*",
+    "target": "KANDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002162933349609375
+  },
+  {
+    "algorithm": "A*",
+    "target": "OPERY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0008690357208251953
+  },
+  {
+    "algorithm": "A*",
+    "target": "CUMEC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0046236515045166016
+  },
+  {
+    "algorithm": "A*",
+    "target": "PRILL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015246868133544922
+  },
+  {
+    "algorithm": "A*",
+    "target": "CLOUR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001653432846069336
+  },
+  {
+    "algorithm": "A*",
+    "target": "BEDEW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004755258560180664
+  },
+  {
+    "algorithm": "A*",
+    "target": "BODHI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001383066177368164
+  },
+  {
+    "algorithm": "A*",
+    "target": "PHOBE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017964839935302734
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROARS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RISTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAMEK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "XYSTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020020008087158203
+  },
+  {
+    "algorithm": "A*",
+    "target": "FUNDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0028908252716064453
+  },
+  {
+    "algorithm": "A*",
+    "target": "BULSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BELOW",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAKEY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0052258968353271484
+  },
+  {
+    "algorithm": "A*",
+    "target": "GLOOM",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001999378204345703
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEEVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012466907501220703
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPESH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009865760803222656
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPAGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HORDE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.007080078125
+  },
+  {
+    "algorithm": "A*",
+    "target": "JAXIE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0017786026000976562
+  },
+  {
+    "algorithm": "A*",
+    "target": "TOUCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOATS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0058803558349609375
+  },
+  {
+    "algorithm": "A*",
+    "target": "WRENS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009980201721191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUSBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001047372817993164
+  },
+  {
+    "algorithm": "A*",
+    "target": "OXEAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010008811950683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "TAFFY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002338409423828125
+  },
+  {
+    "algorithm": "A*",
+    "target": "SILLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "BROKE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012421607971191406
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCUSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010480880737304688
+  },
+  {
+    "algorithm": "A*",
+    "target": "OOBIT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WANGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0038628578186035156
+  },
+  {
+    "algorithm": "A*",
+    "target": "CLUNG",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014040470123291016
+  },
+  {
+    "algorithm": "A*",
+    "target": "HOLLY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MONAD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013964176177978516
+  },
+  {
+    "algorithm": "A*",
+    "target": "JUPON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010025501251220703
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAURI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CAESE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010018348693847656
+  },
+  {
+    "algorithm": "A*",
+    "target": "NUKES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0039179325103759766
+  },
+  {
+    "algorithm": "A*",
+    "target": "PULKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEXOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001001119613647461
+  },
+  {
+    "algorithm": "A*",
+    "target": "POAKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016925334930419922
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMINE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WOOPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002103090286254883
+  },
+  {
+    "algorithm": "A*",
+    "target": "JOMON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0004582405090332031
+  },
+  {
+    "algorithm": "A*",
+    "target": "YAWED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0032470226287841797
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIPOD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0038518905639648438
+  },
+  {
+    "algorithm": "A*",
+    "target": "VARIX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014765262603759766
+  },
+  {
+    "algorithm": "A*",
+    "target": "SAPPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001600027084350586
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLINK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRAND",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007512569427490234
+  },
+  {
+    "algorithm": "A*",
+    "target": "DEFFO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00127410888671875
+  },
+  {
+    "algorithm": "A*",
+    "target": "RYPER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003231048583984375
+  },
+  {
+    "algorithm": "A*",
+    "target": "KAMAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012087821960449219
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRAWL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHINE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PLOUK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013508796691894531
+  },
+  {
+    "algorithm": "A*",
+    "target": "THYMI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROULE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009381771087646484
+  },
+  {
+    "algorithm": "A*",
+    "target": "SINSI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "PETER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011076927185058594
+  },
+  {
+    "algorithm": "A*",
+    "target": "LOAFS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00089263916015625
+  },
+  {
+    "algorithm": "A*",
+    "target": "LUSER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00030875205993652344
+  },
+  {
+    "algorithm": "A*",
+    "target": "DINAR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005869865417480469
+  },
+  {
+    "algorithm": "A*",
+    "target": "LYRIC",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005927085876464844
+  },
+  {
+    "algorithm": "A*",
+    "target": "STALK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "AIRTH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "LIVED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014050006866455078
+  },
+  {
+    "algorithm": "A*",
+    "target": "EATHE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006012916564941406
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAZIS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "POWLT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00033545494079589844
+  },
+  {
+    "algorithm": "A*",
+    "target": "YOUSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0025968551635742188
+  },
+  {
+    "algorithm": "A*",
+    "target": "UGALI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0005078315734863281
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRASH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HEAST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010745525360107422
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOXES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019931793212890625
+  },
+  {
+    "algorithm": "A*",
+    "target": "TUSKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013494491577148438
+  },
+  {
+    "algorithm": "A*",
+    "target": "WAMUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002620697021484375
+  },
+  {
+    "algorithm": "A*",
+    "target": "MANKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIMAH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001268148422241211
+  },
+  {
+    "algorithm": "A*",
+    "target": "PISSY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SHRED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "UMBRE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016913414001464844
+  },
+  {
+    "algorithm": "A*",
+    "target": "BONKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0044994354248046875
+  },
+  {
+    "algorithm": "A*",
+    "target": "PASSE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "REINS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009987354278564453
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOURD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MORIA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ORGUE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011386871337890625
+  },
+  {
+    "algorithm": "A*",
+    "target": "ULANS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002186298370361328
+  },
+  {
+    "algorithm": "A*",
+    "target": "YEEEK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009992122650146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHIVY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "PERMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003961324691772461
+  },
+  {
+    "algorithm": "A*",
+    "target": "JIBBS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0029914379119873047
+  },
+  {
+    "algorithm": "A*",
+    "target": "AMBER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0003924369812011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRIED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019989013671875
+  },
+  {
+    "algorithm": "A*",
+    "target": "BONGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004398345947265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "FURAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "THIRL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ELFED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0019423961639404297
+  },
+  {
+    "algorithm": "A*",
+    "target": "POLLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "YELMS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020322799682617188
+  },
+  {
+    "algorithm": "A*",
+    "target": "DYNOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "PYRAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0025093555450439453
+  },
+  {
+    "algorithm": "A*",
+    "target": "NIMBY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009996891021728516
+  },
+  {
+    "algorithm": "A*",
+    "target": "BLINI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012204647064208984
+  },
+  {
+    "algorithm": "A*",
+    "target": "RECUR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010066032409667969
+  },
+  {
+    "algorithm": "A*",
+    "target": "WELKT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NIXED",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RENKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VOXES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002582550048828125
+  },
+  {
+    "algorithm": "A*",
+    "target": "FUCUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0039479732513427734
+  },
+  {
+    "algorithm": "A*",
+    "target": "ADOBO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013377666473388672
+  },
+  {
+    "algorithm": "A*",
+    "target": "FRAIL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010714530944824219
+  },
+  {
+    "algorithm": "A*",
+    "target": "PECHS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0022516250610351562
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOWLS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKENS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "RINCE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009999275207519531
+  },
+  {
+    "algorithm": "A*",
+    "target": "TAXOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012633800506591797
+  },
+  {
+    "algorithm": "A*",
+    "target": "STRAP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007550716400146484
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHAPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002407073974609375
+  },
+  {
+    "algorithm": "A*",
+    "target": "APOOP",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001111745834350586
+  },
+  {
+    "algorithm": "A*",
+    "target": "GIMPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012888908386230469
+  },
+  {
+    "algorithm": "A*",
+    "target": "OOZLE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "VEEPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012853145599365234
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUVET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014073848724365234
+  },
+  {
+    "algorithm": "A*",
+    "target": "ELDIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010540485382080078
+  },
+  {
+    "algorithm": "A*",
+    "target": "BOMOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014662742614746094
+  },
+  {
+    "algorithm": "A*",
+    "target": "VADGE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014977455139160156
+  },
+  {
+    "algorithm": "A*",
+    "target": "HALAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "YAKKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "NERKA",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0018434524536132812
+  },
+  {
+    "algorithm": "A*",
+    "target": "UNODE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010001659393310547
+  },
+  {
+    "algorithm": "A*",
+    "target": "OUTGO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOERS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010004043579101562
+  },
+  {
+    "algorithm": "A*",
+    "target": "SPIER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0031905174255371094
+  },
+  {
+    "algorithm": "A*",
+    "target": "KHETS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ALCES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAUTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0020029544830322266
+  },
+  {
+    "algorithm": "A*",
+    "target": "ADMIX",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HIVER",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.003255605697631836
+  },
+  {
+    "algorithm": "A*",
+    "target": "SOOTE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "WHOPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010063648223876953
+  },
+  {
+    "algorithm": "A*",
+    "target": "NOULD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "GHAST",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009903907775878906
+  },
+  {
+    "algorithm": "A*",
+    "target": "SKITE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0014183521270751953
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUNCH",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BISKS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.005092144012451172
+  },
+  {
+    "algorithm": "A*",
+    "target": "MARAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "FUGUE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0024335384368896484
+  },
+  {
+    "algorithm": "A*",
+    "target": "NODUS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ARSON",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "HAMAL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007936954498291016
+  },
+  {
+    "algorithm": "A*",
+    "target": "ROWET",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012061595916748047
+  },
+  {
+    "algorithm": "A*",
+    "target": "DUNGY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011582374572753906
+  },
+  {
+    "algorithm": "A*",
+    "target": "CHACK",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010013580322265625
+  },
+  {
+    "algorithm": "A*",
+    "target": "SCUDS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002360105514526367
+  },
+  {
+    "algorithm": "A*",
+    "target": "JINNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.002837657928466797
+  },
+  {
+    "algorithm": "A*",
+    "target": "MOENI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BIJOU",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DATTO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009083747863769531
+  },
+  {
+    "algorithm": "A*",
+    "target": "SNUGS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0013539791107177734
+  },
+  {
+    "algorithm": "A*",
+    "target": "GAUSS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0037200450897216797
+  },
+  {
+    "algorithm": "A*",
+    "target": "JACKY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0021545886993408203
+  },
+  {
+    "algorithm": "A*",
+    "target": "LATHI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "TOMIN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0010027885437011719
+  },
+  {
+    "algorithm": "A*",
+    "target": "NAEVE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0006566047668457031
+  },
+  {
+    "algorithm": "A*",
+    "target": "WASTE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009853839874267578
+  },
+  {
+    "algorithm": "A*",
+    "target": "MYXOS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0015347003936767578
+  },
+  {
+    "algorithm": "A*",
+    "target": "DERPY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009620189666748047
+  },
+  {
+    "algorithm": "A*",
+    "target": "KHAKI",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0011684894561767578
+  },
+  {
+    "algorithm": "A*",
+    "target": "SEEPS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0009219646453857422
+  },
+  {
+    "algorithm": "A*",
+    "target": "VIZIR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007431507110595703
+  },
+  {
+    "algorithm": "A*",
+    "target": "BAHUT",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0007977485656738281
+  },
+  {
+    "algorithm": "A*",
+    "target": "OOAAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DYKES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0012409687042236328
+  },
+  {
+    "algorithm": "A*",
+    "target": "BRINY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00099945068359375
+  },
+  {
+    "algorithm": "A*",
+    "target": "PUDDY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0024025440216064453
+  },
+  {
+    "algorithm": "A*",
+    "target": "JAPAN",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "CELTS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001283407211303711
+  },
+  {
+    "algorithm": "A*",
+    "target": "KNIFE",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "DOVES",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.001177072525024414
+  },
+  {
+    "algorithm": "A*",
+    "target": "RHINO",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "ITCHY",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "KITUL",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MAYOR",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "MYNAS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.004393577575683594
+  },
+  {
+    "algorithm": "A*",
+    "target": "VEHME",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.00038933753967285156
+  },
+  {
+    "algorithm": "A*",
+    "target": "BREID",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "BUILD",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0
+  },
+  {
+    "algorithm": "A*",
+    "target": "JAWNS",
+    "success": false,
+    "error": "'AStarSolver' object has no attribute 'expanded_nodes_count'",
+    "execution_time": 0.0016179084777832031
+  }
+]

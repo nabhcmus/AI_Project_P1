@@ -1,0 +1,161 @@
+======================================================================
+ENTROPY MATRIX SOLVER - BENCHMARK REPORT
+======================================================================
+
+📊 OVERALL STATISTICS
+Total Tests: 1000
+Wins (≤6 guesses): 890 (89.00%)
+Losses (>6 guesses): 110 (11.00%)
+
+🎯 GUESS STATISTICS (All attempts until solved)
+Average Guesses: 4.72
+Median Guesses: 4.0
+Min Guesses: 2
+Max Guesses: 13
+Std Deviation: 1.58
+
+📈 GUESS DISTRIBUTION
+ 2 guesses:  10 ( 1.00%) ✓ Win
+ 3 guesses: 171 (17.10%) ✓ Win
+ 4 guesses: 368 (36.80%) ✓ Win
+ 5 guesses: 227 (22.70%) ✓ Win
+ 6 guesses: 114 (11.40%) ✓ Win
+ 7 guesses:  47 ( 4.70%) ✗ Lose
+ 8 guesses:  34 ( 3.40%) ✗ Lose
+ 9 guesses:   9 ( 0.90%) ✗ Lose
+10 guesses:  11 ( 1.10%) ✗ Lose
+11 guesses:   5 ( 0.50%) ✗ Lose
+12 guesses:   3 ( 0.30%) ✗ Lose
+13 guesses:   1 ( 0.10%) ✗ Lose
+
+⏱️  PERFORMANCE METRICS
+Average Time: 0.0064s
+Median Time: 0.0065s
+Min Time: 0.0000s
+Max Time: 0.0261s
+Total Time: 6.38s
+
+🔍 EXPANDED NODES (Matrix Lookups)
+Average Nodes: 231.42
+Median Nodes: 219.0
+Min Nodes: 0
+Max Nodes: 623
+
+💾 MEMORY USAGE (beyond baseline)
+Peak Memory: 5.58 MB
+Average Memory: 5.51 MB
+Median Memory: 5.57 MB
+
+⚠️  WORDS REQUIRING >6 GUESSES (110)
+   VILLS: 13 guesses
+   RACES: 12 guesses
+   LAVED: 12 guesses
+   KORES: 12 guesses
+   WELTS: 11 guesses
+   WANTS: 11 guesses
+   WANES: 11 guesses
+   PAWED: 11 guesses
+   BACKS: 11 guesses
+   YALES: 10 guesses
+   SASER: 10 guesses
+   RAXED: 10 guesses
+   PERCS: 10 guesses
+   MIZES: 10 guesses
+   MATES: 10 guesses
+   LAMED: 10 guesses
+   KADES: 10 guesses
+   DONGS: 10 guesses
+   COLDS: 10 guesses
+   BOYED: 10 guesses
+   YIKED: 9 guesses
+   WARDS: 9 guesses
+   TOHOS: 9 guesses
+   RAKKI: 9 guesses
+   PINGS: 9 guesses
+   MOWED: 9 guesses
+   LAKES: 9 guesses
+   HANKY: 9 guesses
+   FONES: 9 guesses
+   WRATE: 8 guesses
+   WAXER: 8 guesses
+   TREKS: 8 guesses
+   TREED: 8 guesses
+   SLEER: 8 guesses
+   RIQQS: 8 guesses
+   RASES: 8 guesses
+   RAGED: 8 guesses
+   QUASS: 8 guesses
+   PUNCH: 8 guesses
+   POMES: 8 guesses
+   PAPES: 8 guesses
+   PACTS: 8 guesses
+   PACKY: 8 guesses
+   MOUSE: 8 guesses
+   MOTES: 8 guesses
+   MIRKS: 8 guesses
+   METAS: 8 guesses
+   MAXES: 8 guesses
+   LESES: 8 guesses
+   JINKS: 8 guesses
+   JAFAS: 8 guesses
+   HERES: 8 guesses
+   HAZER: 8 guesses
+   HANKS: 8 guesses
+   GOOKY: 8 guesses
+   FOLLY: 8 guesses
+   DUFFS: 8 guesses
+   DINOS: 8 guesses
+   CRAKE: 8 guesses
+   COOER: 8 guesses
+   CHAPS: 8 guesses
+   CAPED: 8 guesses
+   BRAGS: 8 guesses
+   ZACKS: 7 guesses
+   WREAK: 7 guesses
+   WIZES: 7 guesses
+   WANLE: 7 guesses
+   WAGES: 7 guesses
+   WADAS: 7 guesses
+   VILER: 7 guesses
+   VELDS: 7 guesses
+   TURFS: 7 guesses
+   TRAPS: 7 guesses
+   SWADS: 7 guesses
+   STUDS: 7 guesses
+   SPATS: 7 guesses
+   SLOTS: 7 guesses
+   SHAGS: 7 guesses
+   SCROG: 7 guesses
+   SAWED: 7 guesses
+   SAGES: 7 guesses
+   RORAL: 7 guesses
+   REBEL: 7 guesses
+   RAFFS: 7 guesses
+   PONEY: 7 guesses
+   POLTS: 7 guesses
+   PAVED: 7 guesses
+   PAPAL: 7 guesses
+   NOOSE: 7 guesses
+   NARRE: 7 guesses
+   MANKS: 7 guesses
+   LOGES: 7 guesses
+   LARIS: 7 guesses
+   LAIRY: 7 guesses
+   HAULT: 7 guesses
+   GRAYS: 7 guesses
+   FRANK: 7 guesses
+   FOXIE: 7 guesses
+   DWAMS: 7 guesses
+   DUPPY: 7 guesses
+   DOWIE: 7 guesses
+   DENES: 7 guesses
+   CUNNY: 7 guesses
+   CROCS: 7 guesses
+   COTES: 7 guesses
+   CAVED: 7 guesses
+   CACAS: 7 guesses
+   BIBIS: 7 guesses
+   BANCS: 7 guesses
+   ACHER: 7 guesses
+
+======================================================================

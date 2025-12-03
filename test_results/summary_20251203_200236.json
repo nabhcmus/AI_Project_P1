@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-12-03T20:03:41.064171",
+  "algorithms": {
+    "BFS": {
+      "total_tests": 1000,
+      "success_rate": 100.0,
+      "guesses": {
+        "mean": 2.854,
+        "median": 3.0,
+        "std": 0.3531062163145815,
+        "min": 
