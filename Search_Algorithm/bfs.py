@@ -1,5 +1,7 @@
 import time
 import random
+import os
+import sys
 from collections import deque
 
 class BFSSolver:
@@ -59,6 +61,7 @@ class BFSSolver:
         self.max_queue_size = 0
         self.parent_map = {} 
         self.all_expanded_nodes_log = []
+        self.memory_usage = 0  # Initialize
         
         print(f"========== BFS START ==========")
         print(f"TARGET WORD: {self.secret_word}")
@@ -94,10 +97,17 @@ class BFSSolver:
             feedback = self._calculate_feedback(guess, self.secret_word)
             
             if feedback == tuple(['G'] * 5):
-                print(f"=============================")
+                print("=============================")
                 print(f">>> BFS SUCCESS FOUND TARGET: {guess}")
                 print(f"Total Expanded Nodes: {self.expanded_nodes}")
                 self.end_time = time.time()
+                
+                # Calculate memory from data structures
+                queue_mem = sys.getsizeof(queue) + sum(sys.getsizeof(item) for item in queue)
+                visited_mem = sys.getsizeof(visited_words) + sum(sys.getsizeof(item) for item in visited_words)
+                parent_mem = sys.getsizeof(self.parent_map) + sum(sys.getsizeof(k) + sys.getsizeof(v) for k, v in self.parent_map.items())
+                self.memory_usage = queue_mem + visited_mem + parent_mem
+                
                 self.winning_path = self._reconstruct_path(guess)
                 print(f"Correct Solution Path: {' -> '.join(self.winning_path)}")
                 
@@ -118,16 +128,33 @@ class BFSSolver:
             if self.expanded_nodes > 10000:
                 print("Limit reached!")
                 break
+        
         self.end_time = time.time()
+        
+        # Calculate memory from data structures
+        queue_mem = sys.getsizeof(queue) + sum(sys.getsizeof(item) for item in queue)
+        visited_mem = sys.getsizeof(visited_words) + sum(sys.getsizeof(item) for item in visited_words)
+        parent_mem = sys.getsizeof(self.parent_map) + sum(sys.getsizeof(k) + sys.getsizeof(v) for k, v in self.parent_map.items())
+        self.memory_usage = queue_mem + visited_mem + parent_mem
+        
         print("BFS Failed: Queue Empty.")
         return []
 
     def get_stats(self):
+        # Format memory intelligently
+        if self.memory_usage < 1024:
+            mem_str = f"{self.memory_usage} bytes"
+        elif self.memory_usage < 1024 * 1024:
+            mem_str = f"{self.memory_usage / 1024:.2f} KB"
+        else:
+            mem_str = f"{self.memory_usage / (1024 * 1024):.2f} MB"
+        
         return {
             "Time": f"{self.end_time - self.start_time:.4f}s",
             "Expanded Nodes": self.expanded_nodes,
             "Total Guesses": len(self.winning_path),
             "Max Queue": self.max_queue_size,
+            "Memory Usage": mem_str,
             "Status": "Win" if self.winning_path and self.winning_path[-1] == self.secret_word else "Failed"
         }
     

@@ -90,6 +90,7 @@ def test_entropy_single(target_word=None, hard_mode=True):
             path = solver.solution_path
             total_guesses = len(path)
             expanded_nodes = solver.expanded_nodes
+            memory_usage = getattr(solver, 'memory_usage', 0)
             
             # Check if last guess is correct using word_api method
             success = word_api.is_valid_guess(path[-1]) if path else False
@@ -100,6 +101,7 @@ def test_entropy_single(target_word=None, hard_mode=True):
                 'total_guesses': total_guesses,
                 'expanded_nodes': expanded_nodes,
                 'execution_time': elapsed,
+                'memory_usage': memory_usage,
                 'solution_path': path,
                 'won_in_6': total_guesses <= 6 and success,
                 'hard_mode': hard_mode
@@ -152,6 +154,7 @@ def calculate_statistics(results):
     guesses = [r['total_guesses'] for r in successful]
     nodes = [r['expanded_nodes'] for r in successful]
     times = [r['execution_time'] for r in successful]
+    memory = [r.get('memory_usage', 0) for r in successful]
     won_6 = sum(1 for r in successful if r['won_in_6'])
     
     stats = {
@@ -193,6 +196,16 @@ def calculate_statistics(results):
             'total': np.sum(times)
         },
         
+        # Memory statistics
+        'memory': {
+            'mean': np.mean(memory),
+            'median': np.median(memory),
+            'std': np.std(memory),
+            'min': np.min(memory),
+            'max': np.max(memory),
+            'total': np.sum(memory)
+        },
+        
         # Distribution
         'guess_distribution': dict(Counter(guesses)),
         'path_length_distribution': dict(Counter([len(r['solution_path']) for r in successful]))
@@ -213,7 +226,7 @@ def save_results(results, stats, hard_mode=True, output_dir='entropy_test_result
     csv_path = os.path.join(output_dir, f'entropy_{mode_suffix}_results_{timestamp}.csv')
     with open(csv_path, 'w', newline='', encoding='utf-8') as f:
         fieldnames = ['target_word', 'success', 'total_guesses', 'expanded_nodes', 
-                     'execution_time', 'won_in_6', 'solution_path', 'hard_mode']
+                     'execution_time', 'memory_usage', 'won_in_6', 'solution_path', 'hard_mode']
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         
@@ -225,6 +238,7 @@ def save_results(results, stats, hard_mode=True, output_dir='entropy_test_result
                     'total_guesses': r['total_guesses'],
                     'expanded_nodes': r['expanded_nodes'],
                     'execution_time': f"{r['execution_time']:.6f}",
+                    'memory_usage': r.get('memory_usage', 0),
                     'won_in_6': r['won_in_6'],
                     'solution_path': ' -> '.join(r['solution_path']),
                     'hard_mode': r['hard_mode']
@@ -292,6 +306,22 @@ def print_statistics(stats, hard_mode=True):
     print(f"   Std Dev:          {stats['time']['std']:.4f}s")
     print(f"   Min - Max:        {stats['time']['min']:.4f}s - {stats['time']['max']:.4f}s")
     print(f"   Total Time:       {stats['time']['total']:.2f}s")
+    
+    # Format memory intelligently
+    def format_memory(bytes_val):
+        if bytes_val < 1024:
+            return f"{bytes_val:.0f} bytes"
+        elif bytes_val < 1024 * 1024:
+            return f"{bytes_val / 1024:.2f} KB"
+        else:
+            return f"{bytes_val / (1024 * 1024):.2f} MB"
+    
+    print(f"\n💾 Memory Usage Statistics:")
+    print(f"   Mean:             {format_memory(stats['memory']['mean'])}")
+    print(f"   Median:           {format_memory(stats['memory']['median'])}")
+    print(f"   Std Dev:          {format_memory(stats['memory']['std'])}")
+    print(f"   Min - Max:        {format_memory(stats['memory']['min'])} - {format_memory(stats['memory']['max'])}")
+    print(f"   Total:            {format_memory(stats['memory']['total'])}")
     
     print(f"\n📊 Guess Distribution:")
     for guesses in sorted(stats['guess_distribution'].keys()):
@@ -419,9 +449,37 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
     print(f"   ✅ Saved: {path3}")
     plt.close()
     
-    # 4. Box Plots Comparison
-    print("4. Generating box plots comparison...")
-    fig, axes = plt.subplots(1, 3, figsize=(18, 6))
+    # 4. Memory Usage Distribution
+    print("4. Generating memory usage distribution...")
+    fig, ax = plt.subplots(figsize=(12, 7))
+    memory = [r.get('memory_usage', 0) for r in successful]
+    memory_kb = [m / 1024 for m in memory]  # Convert to KB for better visualization
+    
+    ax.hist(memory_kb, bins=30, color='#9370DB', edgecolor='black', alpha=0.7)
+    
+    mean_mem = stats['memory']['mean'] / 1024
+    median_mem = stats['memory']['median'] / 1024
+    ax.axvline(mean_mem, color='red', linestyle='--', linewidth=2,
+               label=f'Mean: {mean_mem:.2f} KB')
+    ax.axvline(median_mem, color='green', linestyle='--', linewidth=2,
+               label=f'Median: {median_mem:.2f} KB')
+    
+    ax.set_xlabel('Memory Usage (KB)', fontsize=13, fontweight='bold')
+    ax.set_ylabel('Frequency', fontsize=13, fontweight='bold')
+    ax.set_title(f'Entropy Algorithm ({mode_str}) - Memory Usage Distribution', 
+                 fontsize=15, fontweight='bold', pad=15)
+    ax.legend(fontsize=11)
+    ax.grid(True, alpha=0.3, axis='y')
+    
+    plt.tight_layout()
+    path4 = os.path.join(output_dir, f'memory_distribution_{mode_suffix}_{timestamp}.png')
+    plt.savefig(path4, dpi=300, bbox_inches='tight')
+    print(f"   ✅ Saved: {path4}")
+    plt.close()
+    
+    # 5. Box Plots Comparison
+    print("5. Generating box plots comparison...")
+    fig, axes = plt.subplots(1, 4, figsize=(22, 6))
     
     label = f"Entropy\n({mode_str})"
     
@@ -452,14 +510,24 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
     axes[2].set_xticklabels([label], fontsize=10)
     axes[2].grid(True, alpha=0.3, axis='y')
     
+    # Memory box plot
+    memory_kb = [m / 1024 for m in memory]
+    bp4 = axes[3].boxplot([memory_kb], patch_artist=True, showmeans=True,
+                           meanline=True, widths=0.5)
+    bp4['boxes'][0].set_facecolor('#9370DB')
+    axes[3].set_ylabel('Memory Usage (KB)', fontsize=12, fontweight='bold')
+    axes[3].set_title('Memory Usage Distribution', fontsize=13, fontweight='bold')
+    axes[3].set_xticklabels([label], fontsize=10)
+    axes[3].grid(True, alpha=0.3, axis='y')
+    
     plt.tight_layout()
-    path4 = os.path.join(output_dir, f'boxplots_comparison_{mode_suffix}_{timestamp}.png')
-    plt.savefig(path4, dpi=300, bbox_inches='tight')
-    print(f"   ✅ Saved: {path4}")
+    path5 = os.path.join(output_dir, f'boxplots_comparison_{mode_suffix}_{timestamp}.png')
+    plt.savefig(path5, dpi=300, bbox_inches='tight')
+    print(f"   ✅ Saved: {path5}")
     plt.close()
     
-    # 5. Scatter Plot: Nodes vs Guesses
-    print("5. Generating nodes vs guesses scatter plot...")
+    # 6. Scatter Plot: Nodes vs Guesses
+    print("6. Generating nodes vs guesses scatter plot...")
     fig, ax = plt.subplots(figsize=(12, 8))
     
     ax.scatter(guesses, nodes, alpha=0.5, s=50, c=primary_color, 
@@ -479,13 +547,13 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
     ax.grid(True, alpha=0.3)
     
     plt.tight_layout()
-    path5 = os.path.join(output_dir, f'nodes_vs_guesses_{mode_suffix}_{timestamp}.png')
-    plt.savefig(path5, dpi=300, bbox_inches='tight')
-    print(f"   ✅ Saved: {path5}")
+    path6 = os.path.join(output_dir, f'nodes_vs_guesses_{mode_suffix}_{timestamp}.png')
+    plt.savefig(path6, dpi=300, bbox_inches='tight')
+    print(f"   ✅ Saved: {path6}")
     plt.close()
     
-    # 6. Scatter Plot: Time vs Guesses
-    print("6. Generating time vs guesses scatter plot...")
+    # 7. Scatter Plot: Time vs Guesses
+    print("7. Generating time vs guesses scatter plot...")
     fig, ax = plt.subplots(figsize=(12, 8))
     
     ax.scatter(guesses, times, alpha=0.5, s=50, c=secondary_color,
@@ -505,16 +573,25 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
     ax.grid(True, alpha=0.3)
     
     plt.tight_layout()
-    path6 = os.path.join(output_dir, f'time_vs_guesses_{mode_suffix}_{timestamp}.png')
-    plt.savefig(path6, dpi=300, bbox_inches='tight')
-    print(f"   ✅ Saved: {path6}")
+    path7 = os.path.join(output_dir, f'time_vs_guesses_{mode_suffix}_{timestamp}.png')
+    plt.savefig(path7, dpi=300, bbox_inches='tight')
+    print(f"   ✅ Saved: {path7}")
     plt.close()
     
-    # 7. Summary Statistics Table
-    print("7. Generating summary statistics table...")
-    fig, ax = plt.subplots(figsize=(12, 8))
+    # 8. Summary Statistics Table
+    print("8. Generating summary statistics table...")
+    fig, ax = plt.subplots(figsize=(12, 10))
     ax.axis('tight')
     ax.axis('off')
+    
+    # Format memory for display
+    def format_memory(bytes_val):
+        if bytes_val < 1024:
+            return f"{bytes_val:.0f} bytes"
+        elif bytes_val < 1024 * 1024:
+            return f"{bytes_val / 1024:.2f} KB"
+        else:
+            return f"{bytes_val / (1024 * 1024):.2f} MB"
     
     table_data = [
         ['Metric', 'Value'],
@@ -538,6 +615,10 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
         ['Mean Time', f"{stats['time']['mean']:.4f}s"],
         ['Median Time', f"{stats['time']['median']:.4f}s"],
         ['Total Time', f"{stats['time']['total']:.2f}s"],
+        ['', ''],
+        ['Mean Memory', format_memory(stats['memory']['mean'])],
+        ['Median Memory', format_memory(stats['memory']['median'])],
+        ['Total Memory', format_memory(stats['memory']['total'])],
     ]
     
     table = ax.table(cellText=table_data, cellLoc='left', loc='center',
@@ -553,13 +634,13 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
     table[(0, 1)].set_text_props(weight='bold', color='white', size=13)
     
     # Style section separators
-    for i in [1, 7, 12, 17]:
+    for i in [1, 7, 12, 17, 21]:
         table[(i, 0)].set_facecolor('#E7E6E6')
         table[(i, 1)].set_facecolor('#E7E6E6')
     
     # Style data rows
     for i in range(2, len(table_data)):
-        if i not in [1, 7, 12, 17]:
+        if i not in [1, 7, 12, 17, 21]:
             if i % 2 == 0:
                 table[(i, 0)].set_facecolor('#F2F2F2')
                 table[(i, 1)].set_facecolor('#F2F2F2')
@@ -568,9 +649,9 @@ def generate_visualizations(results, stats, hard_mode=True, output_dir='entropy_
               fontsize=16, fontweight='bold', pad=20)
     
     plt.tight_layout()
-    path7 = os.path.join(output_dir, f'summary_table_{mode_suffix}_{timestamp}.png')
-    plt.savefig(path7, dpi=300, bbox_inches='tight')
-    print(f"   ✅ Saved: {path7}")
+    path8 = os.path.join(output_dir, f'summary_table_{mode_suffix}_{timestamp}.png')
+    plt.savefig(path8, dpi=300, bbox_inches='tight')
+    print(f"   ✅ Saved: {path8}")
     plt.close()
     
     print(f"\n{'='*70}")

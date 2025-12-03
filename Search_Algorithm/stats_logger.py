@@ -15,6 +15,7 @@ class StatsLogger:
         "Total Guesses",
         "Solution Path",
         "Max Memory (nodes)",
+        "Memory Usage",
         "Status"
     ]
     @staticmethod
@@ -24,6 +25,7 @@ class StatsLogger:
         expanded = stats_dict.get("Expanded Nodes", stats_dict.get("expanded_nodes", 0))
         total_guesses = stats_dict.get("Total Guesses", stats_dict.get("Guesses", stats_dict.get("total_guesses", len(solution_path))))
         max_memory = stats_dict.get("Max Queue", stats_dict.get("Max Queue Size", stats_dict.get("max_memory_nodes", "N/A")))
+        memory_usage = stats_dict.get("Memory Usage", stats_dict.get("memory_usage", "N/A"))
         status = stats_dict.get("Result", stats_dict.get("Status", "Unknown"))
         path_str = " → ".join(solution_path[:15])  
         if len(solution_path) > 15:
@@ -38,6 +40,7 @@ class StatsLogger:
             total_guesses,
             path_str,
             max_memory,
+            memory_usage,
             status
         ]
         StatsLogger._append_to_excel(row_data)
@@ -61,7 +64,7 @@ class StatsLogger:
                 cell.fill = header_fill
                 cell.font = header_font
                 cell.alignment = Alignment(horizontal="center", vertical="center")
-            column_widths = [20, 12, 12, 12, 12, 15, 15, 50, 18, 12]
+            column_widths = [20, 12, 12, 12, 12, 15, 15, 50, 18, 15, 12]
             for i, width in enumerate(column_widths, 1):
                 ws.column_dimensions[ws.cell(1, i).column_letter].width = width
         ws.append(row_data)

@@ -2,6 +2,7 @@ import numpy as np
 import math
 import time
 import os
+import sys
 
 class EntropySolver:
     _matrix = None
@@ -31,6 +32,7 @@ class EntropySolver:
         self.total_operations = 0
         self.expanded_nodes = 0
         self.solution_path = []
+        self.memory_usage = 0
     @property
     def matrix(self):
         return EntropySolver._matrix
@@ -103,13 +105,28 @@ class EntropySolver:
                 break
 
         self.end_time = time.time()
+        
+        # Calculate memory from data structures
+        mem_candidates = current_candidate_indices.nbytes  # NumPy array
+        mem_path = sys.getsizeof(self.solution_path) + sum(sys.getsizeof(w) for w in self.solution_path)
+        self.memory_usage = mem_candidates + mem_path
+        
         return self.solution_path
 
     def get_stats(self):
         """Return statistics follow normal format"""
+        # Format memory intelligently
+        if self.memory_usage < 1024:
+            mem_str = f"{self.memory_usage} bytes"
+        elif self.memory_usage < 1024 * 1024:
+            mem_str = f"{self.memory_usage / 1024:.2f} KB"
+        else:
+            mem_str = f"{self.memory_usage / (1024 * 1024):.2f} MB"
+        
         return {
             "Time": f"{self.end_time - self.start_time:.4f}s",
             "Expanded Nodes": self.expanded_nodes,
             "Total Guesses": len(self.solution_path),
+            "Memory Usage": mem_str,
             "Status": "Win" if (self.solution_path and self.word_api.is_valid_guess(self.solution_path[-1])) else "Failed"
         }

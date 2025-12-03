@@ -1,7 +1,7 @@
 import os
 import time
 import random
-import psutil
+import sys
 from collections import deque
 
 class DFSSolver:
@@ -79,8 +79,6 @@ class DFSSolver:
 
     def solve(self, board_state):
         start_time = time.time()
-        process = psutil.Process(os.getpid())
-        mem_before = process.memory_info().rss
         self.expanded_nodes = 0
         self.max_stack_size = 0
         print(f"[DFS Solver] Goal word: {self.secret_word}")
@@ -128,16 +126,28 @@ class DFSSolver:
                 self.full_solution_path = []
                 self.total_guesses = len(initial_path)
         self.time_taken = time.time() - start_time
-        mem_after = process.memory_info().rss
-        self.memory_usage = mem_after - mem_before
+        
+        # Approximate memory: candidate list + path
+        mem_candidates = sys.getsizeof(candidate_words) + sum(sys.getsizeof(w) for w in candidate_words)
+        mem_path = sys.getsizeof(self.full_solution_path) + sum(sys.getsizeof(w) for w in self.full_solution_path)
+        self.memory_usage = mem_candidates + mem_path
+        
         attempts_left = 6 - len(board_state)
         return self.full_solution_path[:attempts_left]
 
     def get_stats(self):
+        # Format memory intelligently
+        if self.memory_usage < 1024:
+            mem_str = f"{self.memory_usage} bytes"
+        elif self.memory_usage < 1024 * 1024:
+            mem_str = f"{self.memory_usage / 1024:.2f} KB"
+        else:
+            mem_str = f"{self.memory_usage / (1024 * 1024):.2f} MB"
+        
         return {
             "Time": f"{self.time_taken:.4f}s",
             "Expanded Nodes": self.expanded_nodes,
             "Total Guesses": self.total_guesses,
-            "Memory Usage": f"{self.memory_usage / 1024:.2f} KB",
+            "Memory Usage": mem_str,
             "Status": "Win" if self.full_solution_path and self.word_api.is_valid_guess(self.full_solution_path[-1] if self.full_solution_path else "") else "Failed"
         }

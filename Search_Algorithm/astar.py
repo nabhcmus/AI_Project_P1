@@ -1,8 +1,8 @@
 ﻿import time
 import os
 import pickle
-import numpy as np
 import sys
+import numpy as np
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -49,6 +49,7 @@ class AStarSolver:
         self.guesses_history = []
         self.search_time = 0
         self.expanded_nodes = 0
+        self.memory_usage = 0
 
         self.candidates_indices = np.arange(len(self.full_dictionary))
 
@@ -145,6 +146,12 @@ class AStarSolver:
             if len(self.candidates_indices) == 0: break
 
         self.search_time = time.time() - start_time
+        
+        # Calculate memory from data structures
+        mem_candidates = self.candidates_indices.nbytes  # NumPy array
+        mem_history = sys.getsizeof(self.guesses_history) + sum(sys.getsizeof(w) for w in self.guesses_history)
+        self.memory_usage = mem_candidates + mem_history
+        
         return self.guesses_history
 
     def _calculate_feedback(self, guess, secret):
@@ -159,4 +166,18 @@ class AStarSolver:
         return tuple([f if f else 'X' for f in feedback])
 
     def get_stats(self):
-        return {"target": self.target, "steps": len(self.guesses_history), "search_time": round(self.search_time, 4)}
+        # Format memory intelligently
+        if self.memory_usage < 1024:
+            mem_str = f"{self.memory_usage} bytes"
+        elif self.memory_usage < 1024 * 1024:
+            mem_str = f"{self.memory_usage / 1024:.2f} KB"
+        else:
+            mem_str = f"{self.memory_usage / (1024 * 1024):.2f} MB"
+        
+        return {
+            "target": self.target,
+            "steps": len(self.guesses_history),
+            "search_time": round(self.search_time, 4),
+            "Memory Usage": mem_str,
+            "Expanded Nodes": self.expanded_nodes
+        }
